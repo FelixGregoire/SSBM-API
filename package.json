@@ -1,0 +1,21 @@
+{
+  "name": "ssbm-api",
+  "version": "0.0.1",
+  "description": "An API for SSBM frame data and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixGregoire/SSBM-API.git"
+  },
+  "author": "FelixGregoire",
+  "bugs": {
+    "url": "https://github.com/FelixGregoire/SSBM-API/issues"
+  },
+  "homepage": "https://github.com/FelixGregoire/SSBM-API#readme",
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}
